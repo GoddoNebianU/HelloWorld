@@ -4,11 +4,6 @@
 
 git真棒！
 
-## How to use git?
+## A*算法
 
-git clone
-
-git commit
-
-git push
-
+python3 main.py
